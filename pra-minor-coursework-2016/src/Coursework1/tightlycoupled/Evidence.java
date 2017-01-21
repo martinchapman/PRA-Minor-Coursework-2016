@@ -29,7 +29,7 @@ public class Evidence {
 	/**
 	 * @return
 	 */
-	public String getEvidenceType() {
+	public String retrieveEvidenceType() {
 		
 		return type;
 		
